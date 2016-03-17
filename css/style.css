@@ -1,0 +1,137 @@
+ul li{
+	color: white;
+	margin: 0px;
+	float: left;
+	text-align: center;
+	margin-left: 30px;
+	list-style-type:none;
+}
+.header{
+	background-color:black;
+	
+	width: auto;
+	height: 70px;
+	
+
+}
+
+ul{
+	margin: 0px  0px;
+
+}
+
+body{
+	
+	margin: 0px auto;
+}
+
+#logo{
+	width: 140px;
+	height: 70px;
+	background-color: black;
+	float: left;
+	text-align: center;
+}
+.header_left{
+	width: 500px;
+	height: 70px;
+	background-color: black;
+	display: inline-block;
+	text-align: center;
+
+}
+.header_left ul li{
+	color: white;
+	font-size: 20px;
+	float: left;
+	text-align: center;
+	margin-left: 20px;
+	text-decoration: none;
+	list-style-type:none;  
+}
+
+.mainer ul li{
+	color: black;
+	
+	text-align: center;
+	margin-left: 20px;
+	font-size: 50px;
+}
+.mainer{
+	text-align: center;
+}
+
+.header_right{
+	background-color: black;
+	display: inline-block;
+	float: right;
+	width: 500px;
+	height: 70px;
+	text-align: center;
+
+}
+
+
+.advertisiment{
+	background-color: #cd9693;
+	margin: 0px auto;
+	width: 100%;
+	height: 300px;
+	font-size: 100px;
+	text-align: center;
+	font-family: "Microsoft Yahei", "simsun";
+	color: white;
+}
+.mainer{
+	background-color:#5897fb;
+	margin: 0px auto;
+	width: 80%;
+	height: 500px;
+}
+
+a.box{
+	display: inline-block;
+	text-align: center;
+	height: 70px;
+	width: 70px;
+	float: left;
+	padding: 0px 0px;
+	margin: 0px 0px;
+	line-height:60px;
+	font-family: "Microsoft Yahei", "simsun";
+	transition: background-color 0.5s;
+	-moz-transition: background-color 0.5s;	/* Firefox 4 */
+	-webkit-transition: background-color 0.5s;	/* Safari 和 Chrome */
+	-o-transition: background-color 0.5s;	/* Opera */
+	
+}
+
+a.box2{
+	display: inline-block;
+	text-align: center;
+	height: 70px;
+	width: 70px;
+	float: left;
+	line-height:60px;
+	font-size: 20px;
+	font-family: "Microsoft Yahei", "simsun";
+	transition: background-color 0.5s;
+	-moz-transition: background-color 0.5s;	/* Firefox 4 */
+	-webkit-transition: background-color 0.5s;	/* Safari 和 Chrome */
+	-o-transition: background-color 0.5s;	/* Opera */
+	
+
+}
+
+a{ text-decoration: none;display:}
+a:visited{color: white;}
+
+a.box2:hover{
+	background-color: #9098a3;
+
+}
+a.box:hover{
+	background-color: #9098a3;
+
+}
+
